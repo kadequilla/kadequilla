@@ -4,6 +4,6 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,vuejs,nuxtjs,dart" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,vuejs,nuxtjs,dart,c#" />
   </a>
 </p>
